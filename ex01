@@ -1,0 +1,5 @@
+let num1 = Number(prompt("digite o numero : "))
+let num2 = Number(prompt("digite o segundo numero: "))
+
+        let soma = num1 + num2
+        alert(`A soma dos numeros ${num1} e ${num2} e ${soma}`)
