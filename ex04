@@ -1,0 +1,4 @@
+let nome = prompt("digite o seu nome")
+let idade = Number(prompt("digite a sua idade"))
+
+alert(`welcome, your name is ${nome} and age ${idade}`)
