@@ -1,0 +1,5 @@
+let pizzas = Number(prompt("quantos pedaços de pizza c=voce comeu?"))
+let refrigerantes = Number(prompt("quantos copos de refirgerante vc tomou"))
+
+let total = pizzas + refrigerantes
+alert(`o total que voce consumiu de pizzas ${pizzas} e copos de refrigante foram ${refrigerantes} e o total de tudo ${total}`)
