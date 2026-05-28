@@ -1,0 +1,3 @@
+let idade = Number(prompt("type your age"))
+let maisdez = idade + 10
+alert(`your age in 10 years will be ${maisdez}`)
