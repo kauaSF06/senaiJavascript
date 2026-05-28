@@ -1,0 +1,4 @@
+let palavra1 = prompt("digite uma palavra")
+let palavra2 = prompt("digite outra palavra")
+
+alert(`${palavra1} ${palavra2}`)
